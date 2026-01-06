@@ -46,7 +46,7 @@ A comprehensive web-based school management system for managing students, teache
 
 3.  **Frontend**:
     - Open the `frontend` directory.
-      ```bash
+    ```bash
     python -m http.server 8000
     ```
     - Serve the files using a static file server (e.g., Live Server in VS Code).
